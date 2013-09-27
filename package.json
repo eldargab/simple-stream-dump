@@ -1,0 +1,14 @@
+{
+  "name": "simple-stream-dump",
+  "version": "0.0.0",
+  "description": "Dump simple-stream (consume it throwing away everything)",
+  "keywords": ["simple stream", "dump"],
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldargab/simple-stream-dump"
+  },
+  "dependencies": {
+    "asyncloop": "0.0.1"
+  }
+}

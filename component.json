@@ -1,0 +1,12 @@
+{
+  "name": "simple-stream-dump",
+  "version": "0.0.0",
+  "description": "Dump simple-stream (consume it throwing away everything)",
+  "keywords": ["simple stream", "dump"],
+  "dependencies": {
+    "eldargab/asyncloop": "0.0.1"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
